@@ -1,0 +1,9 @@
+name: SpawnPlugin
+version: '${project.version}'
+main: me.kodysimpson.spawnplugin.SpawnPlugin
+api-version: 1.17
+commands:
+  setspawn:
+    description: Set the spawn point
+  spawn:
+    description: Teleport a player at the spawn location
